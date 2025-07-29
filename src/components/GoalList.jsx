@@ -1,5 +1,5 @@
 import React from "react";
-import GoalCard from "./GoalCard";
+import GoalCard from "./GoalCard.jsx";
 
 const dummyGoals = [
   { id: 1, title: "Buy a Laptop", saved: 20000, target: 60000 },
